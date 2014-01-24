@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1362200399 source:k:\programming\c++\problem_96\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1362427462 source:f:\programming\c++\problem_96\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
